@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maksersov/Documents/C#/CS code/Program/AoM/Age Of Magic.csproj",
+      "projectUniqueName": "/Users/Documents/C#/CS code/Program/AoM/Age Of Magic.csproj",
       "projectName": "Age Of Magic",
-      "projectPath": "/Users/maksersov/Documents/C#/CS code/Program/AoM/Age Of Magic.csproj",
-      "packagesPath": "/Users/maksersov/.nuget/packages/",
-      "outputPath": "/Users/maksersov/Documents/C#/CS code/Program/AoM/obj/",
+      "projectPath": "/Users/Documents/C#/CS code/Program/AoM/Age Of Magic.csproj",
+      "packagesPath": "/Users/.nuget/packages/",
+      "outputPath": "/Users/Documents/C#/CS code/Program/AoM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maksersov/.nuget/NuGet/NuGet.Config"
+        "/Users/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
